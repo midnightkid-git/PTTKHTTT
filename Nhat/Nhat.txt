@@ -1,0 +1,5 @@
+Thiết kế Use case: Đã hoàn thành
+Thiết kế activity diagram: Đã hoàn thành
+Thiết kế sequence: Đã hoàn thành
+Thiết kế giao diện: Đã hoàn thành
+Thiết kế database: Đã hoàn thành
