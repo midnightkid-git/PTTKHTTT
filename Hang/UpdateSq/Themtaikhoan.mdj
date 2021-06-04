@@ -135,7 +135,7 @@
 													"top": 47,
 													"width": 89.30126953125,
 													"height": 13,
-													"text": ":Người dùng"
+													"text": ":User"
 												},
 												{
 													"_type": "LabelView",
@@ -249,7 +249,7 @@
 													"top": 47,
 													"width": 157.1259765625,
 													"height": 13,
-													"text": ":View thêm nhân viên"
+													"text": ":View Add Staff"
 												},
 												{
 													"_type": "LabelView",
@@ -587,7 +587,7 @@
 													"top": 47,
 													"width": 188.18505859375,
 													"height": 13,
-													"text": "View thêm nhân viên thất bại"
+													"text": ":View Add Staff Failed"
 												},
 												{
 													"_type": "LabelView",
@@ -689,7 +689,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -64,
+													"left": -16,
 													"height": 13
 												},
 												{
@@ -699,11 +699,11 @@
 														"$ref": "AAAAAAF5sRXWhawsBnc="
 													},
 													"font": "Arial;13;1",
-													"left": 629,
+													"left": 653,
 													"top": 47,
 													"width": 106.55419921875,
 													"height": 13,
-													"text": ":View trang chủ"
+													"text": ":View Home"
 												},
 												{
 													"_type": "LabelView",
@@ -713,7 +713,7 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -64,
+													"left": -16,
 													"width": 106.20263671875,
 													"height": 13,
 													"text": "(from Interaction1)"
@@ -726,13 +726,13 @@
 													},
 													"visible": false,
 													"font": "Arial;13;0",
-													"left": -64,
+													"left": -16,
 													"height": 13,
 													"horizontalAlignment": 1
 												}
 											],
 											"font": "Arial;13;0",
-											"left": 624,
+											"left": 648,
 											"top": 40,
 											"width": 116.55419921875,
 											"height": 40,
@@ -759,14 +759,14 @@
 												"$ref": "AAAAAAF5sRXWhawqnBU="
 											},
 											"font": "Arial;13;0",
-											"left": 682,
+											"left": 706,
 											"top": 80,
 											"width": 1,
 											"height": 577
 										}
 									],
 									"font": "Arial;13;0",
-									"left": 624,
+									"left": 648,
 									"top": 40,
 									"width": 116.55419921875,
 									"height": 617,
@@ -3398,7 +3398,7 @@
 												"$ref": "AAAAAAF50WUR59LiBys="
 											},
 											"font": "Arial;13;0",
-											"left": 702,
+											"left": 714,
 											"top": 422,
 											"width": 185.00244140625,
 											"height": 13,
@@ -3421,7 +3421,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 794,
+											"left": 806,
 											"top": 437,
 											"height": 13,
 											"alpha": 1.5707963267948966,
@@ -3442,7 +3442,7 @@
 											},
 											"visible": false,
 											"font": "Arial;13;0",
-											"left": 795,
+											"left": 807,
 											"top": 402,
 											"height": 13,
 											"alpha": -1.5707963267948966,
@@ -3462,7 +3462,7 @@
 												"$ref": "AAAAAAF50WUR59LiBys="
 											},
 											"font": "Arial;13;0",
-											"left": 675,
+											"left": 699,
 											"top": 418,
 											"width": 14,
 											"height": 29
@@ -3475,7 +3475,7 @@
 									"tail": {
 										"$ref": "AAAAAAF5sRZyIqxTeQ8="
 									},
-									"points": "903:418;688:418",
+									"points": "903:418;712:418",
 									"nameLabel": {
 										"$ref": "AAAAAAF50WUR59Lkkxg="
 									},
@@ -3789,7 +3789,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5sPdgyqtoOTM="
 							},
-							"name": ":Người dùng",
+							"name": ":User",
 							"represent": {
 								"$ref": "AAAAAAF5sPqB5at4j9A="
 							},
@@ -3801,7 +3801,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5sPdgyqtoOTM="
 							},
-							"name": ":View thêm nhân viên",
+							"name": ":View Add Staff",
 							"represent": {
 								"$ref": "AAAAAAF5sQ/vb6uZjvE="
 							},
@@ -3813,7 +3813,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5sPdgyqtoOTM="
 							},
-							"name": "View thêm nhân viên thất bại",
+							"name": ":View Add Staff Failed",
 							"represent": {
 								"$ref": "AAAAAAF5sRMDuKwF/EY="
 							},
@@ -3825,7 +3825,7 @@
 							"_parent": {
 								"$ref": "AAAAAAF5sPdgyqtoOTM="
 							},
-							"name": ":View trang chủ",
+							"name": ":View Home",
 							"represent": {
 								"$ref": "AAAAAAF5sRXWhawp5h0="
 							},
@@ -3950,7 +3950,8 @@
 					"_parent": {
 						"$ref": "AAAAAAF5sPdgyatngzs="
 					},
-					"name": "Role3"
+					"name": "Role3",
+					"type": ""
 				},
 				{
 					"_type": "UMLAttribute",
